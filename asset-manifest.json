@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shiva9111/mern-stack.git/static/css/main.e6c13ad2.css",
+    "main.js": "/shiva9111/mern-stack.git/static/js/main.93164190.js",
+    "static/js/453.3444a9c9.chunk.js": "/shiva9111/mern-stack.git/static/js/453.3444a9c9.chunk.js",
+    "index.html": "/shiva9111/mern-stack.git/index.html",
+    "main.e6c13ad2.css.map": "/shiva9111/mern-stack.git/static/css/main.e6c13ad2.css.map",
+    "main.93164190.js.map": "/shiva9111/mern-stack.git/static/js/main.93164190.js.map",
+    "453.3444a9c9.chunk.js.map": "/shiva9111/mern-stack.git/static/js/453.3444a9c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.93164190.js"
+  ]
+}
